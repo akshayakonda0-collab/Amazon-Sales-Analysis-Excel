@@ -142,6 +142,3 @@ Through this project, I practiced:
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
-**Akshaya**
-
-Aspiring Data Analyst | Excel | SQL | Python | Power BI
